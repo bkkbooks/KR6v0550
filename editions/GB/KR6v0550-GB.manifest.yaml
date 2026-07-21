@@ -19,12 +19,12 @@ metadata:
     short: GB
 assets:
   parts:
-  - {seq: 0, filename: KR6v0550_000-GB.yaml, hash: 'sha256:e909fb35fb0a2951df18eb8395c3cfa00080879253ff252d4a430b7c5267ffa9'}
+  - {seq: 0, filename: KR6v0550_000-GB.yaml, hash: 'sha256:5bc812ac951ae635e696896dc1f2dfd2b83eeea64c2e53fb2b733eb8ff775a73'}
   - {seq: 1, filename: KR6v0550_001-GB.yaml, hash: 'sha256:9826cb91a6732dd2ce45a4d653c37a828ab8059185a1ed4be88de41133ef1a49'}
   - {seq: 2, filename: KR6v0550_002-GB.yaml, hash: 'sha256:d46305b25d14931e832ea50238b3943e2343e7d062d4b498ef5d28aee5726f1d'}
   - {seq: 3, filename: KR6v0550_003-GB.yaml, hash: 'sha256:aecb819f1fae20806e052d608c3602965a805e61ce7168e71b08103b195a690b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0550_000-GB.markers.yaml, hash: 'sha256:c54cfc3c7e6f890ae82797ce3980339754a268ff779f4120abf54bf575a3d802'}
+  - {seq: 0, role: markers, filename: assets/KR6v0550_000-GB.markers.yaml, hash: 'sha256:d86ced0a0b6cb494d4b4e77275f8a1963f7cd2cac5453db5c662601779e6f9db'}
   - {seq: 1, role: markers, filename: assets/KR6v0550_001-GB.markers.yaml, hash: 'sha256:e8682212bc86dbde8a7b163dde927d90634c196bf2e0097ac5d0d8c88d770c76'}
   - {seq: 2, role: markers, filename: assets/KR6v0550_002-GB.markers.yaml, hash: 'sha256:13c6836695699680a556b3eda3a50a2a156218dac0b0a3023f0a6fafe8583d05'}
   - {seq: 3, role: markers, filename: assets/KR6v0550_003-GB.markers.yaml, hash: 'sha256:81fd8fc59f12587024ac174f42f028b23bca87a01272c69969d686952c83dae1'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0550_GB_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 簡介
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0550_GB_000-mulu-2
     span:
-    - front
+    - body
     - 275
     - 275
   label: 版本說明
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0550_GB_000-mulu-3
     span:
-    - front
+    - body
     - 512
     - 512
   label: 重刻序
@@ -1439,4 +1439,4 @@ table_of_contents:
   label: 重刻緣起
   type: mulu
   level: 1
-hash: sha256:4bd59f51037a5bd1ffc92b3b353edd6811ec557e989d4cef74628c4bc5f5926b
+hash: sha256:50efd768ba1ad739f8892c41bb8ad1f1c9f811bf1598b9de93e6be114f342bc5
